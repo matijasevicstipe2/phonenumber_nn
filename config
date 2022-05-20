@@ -1,0 +1,87 @@
+CreateTraining: width:16,height:16,type:RGB
+Input: image:./nnimages/0.jpg, identity:zero
+Input: image:./nnimages/1.jpg, identity:one
+Input: image:./nnimages/2.jpg, identity:two
+Input: image:./nnimages/3.jpg, identity:three
+Input: image:./nnimages/4.jpg, identity:four
+Input: image:./nnimages/5.jpg, identity:five
+Input: image:./nnimages/6.jpg,  identity:six
+Input: image:./nnimages/7.jpg,  identity:seven
+Input: image:./nnimages/8.jpg,  identity:eight
+Input: image:./nnimages/9.jpg,  identity:nine
+Input: image:./nnimages/slash.jpg,  identity:slash
+Input: image:./nnimages/line.jpg,  identity:line
+Input: image:./nnimages/03.jpg, identity:zero
+Input: image:./nnimages/13.jpg, identity:one
+Input: image:./nnimages/23.jpg, identity:two
+Input: image:./nnimages/33.jpg, identity:three
+Input: image:./nnimages/43.jpg, identity:four
+Input: image:./nnimages/53.jpg, identity:five
+Input: image:./nnimages/63.jpg,  identity:six
+Input: image:./nnimages/73.jpg,  identity:seven
+Input: image:./nnimages/83.jpg,  identity:eight
+Input: image:./nnimages/93.jpg,  identity:nine
+Input: image:./nnimages/slash3.jpg,  identity:slash
+Input: image:./nnimages/line3.jpg,  identity:line
+Input: image:./nnimages/04.jpg, identity:zero
+Input: image:./nnimages/14.jpg, identity:one
+Input: image:./nnimages/24.jpg, identity:two
+Input: image:./nnimages/34.jpg, identity:three
+Input: image:./nnimages/44.jpg, identity:four
+Input: image:./nnimages/54.jpg, identity:five
+Input: image:./nnimages/64.jpg,  identity:six
+Input: image:./nnimages/74.jpg,  identity:seven
+Input: image:./nnimages/84.jpg,  identity:eight
+Input: image:./nnimages/94.jpg,  identity:nine
+Input: image:./nnimages/slash4.jpg,  identity:slash
+Input: image:./nnimages/line4.jpg,  identity:line
+Network: hidden1:100, hidden2:100
+Train: Mode:console, Minutes:1, StrategyError:0.01, StrategyCycles:500
+Whatis: image:./nnimages/0.jpg
+Whatis: image:./nnimages/1.jpg
+Whatis: image:./nnimages/2.jpg
+Whatis: image:./nnimages/3.jpg
+Whatis: image:./nnimages/4.jpg
+Whatis: image:./nnimages/5.jpg
+Whatis: image:./nnimages/6.jpg
+Whatis: image:./nnimages/7.jpg
+Whatis: image:./nnimages/8.jpg
+Whatis: image:./nnimages/9.jpg
+Whatis: image:./nnimages/slash.jpg
+Whatis: image:./nnimages/line.jpg
+Whatis: image:./nnimages/04.jpg
+Whatis: image:./nnimages/14.jpg
+Whatis: image:./nnimages/24.jpg
+Whatis: image:./nnimages/34.jpg
+Whatis: image:./nnimages/44.jpg
+Whatis: image:./nnimages/54.jpg
+Whatis: image:./nnimages/64.jpg
+Whatis: image:./nnimages/74.jpg
+Whatis: image:./nnimages/84.jpg
+Whatis: image:./nnimages/94.jpg
+Whatis: image:./nnimages/slash4.jpg
+Whatis: image:./nnimages/line4.jpg
+Whatis: image:./nnimages/03.jpg
+Whatis: image:./nnimages/13.jpg
+Whatis: image:./nnimages/23.jpg
+Whatis: image:./nnimages/33.jpg
+Whatis: image:./nnimages/43.jpg
+Whatis: image:./nnimages/53.jpg
+Whatis: image:./nnimages/63.jpg
+Whatis: image:./nnimages/73.jpg
+Whatis: image:./nnimages/83.jpg
+Whatis: image:./nnimages/93.jpg
+Whatis: image:./nnimages/slash3.jpg
+Whatis: image:./nnimages/line3.jpg
+Whatis: image:./nnimages/02.jpg
+Whatis: image:./nnimages/12.jpg
+Whatis: image:./nnimages/22.jpg
+Whatis: image:./nnimages/32.jpg
+Whatis: image:./nnimages/42.jpg
+Whatis: image:./nnimages/52.jpg
+Whatis: image:./nnimages/62.jpg
+Whatis: image:./nnimages/72.jpg
+Whatis: image:./nnimages/82.jpg
+Whatis: image:./nnimages/92.jpg
+Whatis: image:./nnimages/slash2.jpg
+Whatis: image:./nnimages/line2.jpg
